@@ -11,7 +11,7 @@ Arduino IDE の[ダウンロードページ](http://arduino.cc/en/Main/Software)
 
 ### Arduino に Command Server を書き込む
 
-arduino.js を使うためには Arduino 内部にプログラムを書き込む必要挙がります。sketch/CommandServer/CommandServer.ino を Arduino SDK で開き、Arduino にアップロードして(マイコンボードに書き込むボタンを押して)ください。 
+arduino.js を使うためには Arduino 内部にプログラムを書き込む必要があります。sketch/CommandServer/CommandServer.ino を Arduino SDK で開き、Arduino にアップロードして(マイコンボードに書き込むボタンを押して)ください。 
 
 ### Firefox に arduino.js for webpages をインストール
 

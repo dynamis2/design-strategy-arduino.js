@@ -1,4 +1,3 @@
-
 ## Arduino.js でブラウザからハードウェアを操作する
 
 ## Arduino をゲットする
@@ -72,6 +71,5 @@ blink.html を開くと LED が点滅します。しなかったら手順を見�
 * Arduino Language Reference
 	* arduino.js から操作する場合は [arduino.js ページ](http://www.mecha-mozilla.org/projects/arduino.js/) に書かれた API を参照
 	* http://arduino.cc/en/Reference/HomePage
-
 
 
